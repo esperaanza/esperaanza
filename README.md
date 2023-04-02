@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img src="https://giphy.com/embed/4KzpjLvJjJknJ5Xuak" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+    <img src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
     <h1 aling="center">Hi 👋, I'm Esperanza Nazario.✨</h1>
     <h3 aling="center"> I'm from Mexico and I have a great passion for the world of the Web and technology. I consider myself a person open to new challenges and always interested in learning about the latest trends and emerging technologies in the frontend field.
 <br>
@@ -8,7 +8,6 @@
         In summary, my goal is to continue developing as a professional and staying up-to-date with the latest trends in the frontend field while enjoying everything that life has to offer.</h3>
 </div>
 
-<div id="badges" aling="center">https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhome%3Flang%3Des</div>
 
  ---
 
