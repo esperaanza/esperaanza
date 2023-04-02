@@ -1,6 +1,5 @@
 <div id="header" aling="center">
-    <img src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="478" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
-    <h1 aling="center">Hi 👋, I'm Esperanza Nazario.✨</h1>
+     <h1 aling="center">Hi 👋, I'm Esperanza Nazario.✨</h1>
     <h3 aling="center"> I'm from Mexico and I have a great passion for the world of the Web and technology. I consider myself a person open to new challenges and always interested in learning about the latest trends and emerging technologies in the frontend field.
 <br>
         I describe myself as a proactive person with critical thinking, always looking for new ways to grow both professionally and personally. Additionally, I consider myself a sociable person who enjoys living new experiences.
