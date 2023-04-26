@@ -1,6 +1,16 @@
+### <img src="https://media.giphy.com//cartoon-3d-astronaut-VOgpnDOAddaN0zr9UE/giphy.gif" width="50"> Hi 👋, I'm Esperanza Nazario. 
+
+```javascript
+const Esperanza = {
+  pronouns: "she" | "her",
+  challenge: "I am studying Web development at Laboratoria <L> 💛 ",
+  strengths: "self-taught person, curiosity, adaptability"
+}
+```
+
+
 <div id="header" aling="center">
-     <h1 aling="center">Hi 👋, I'm Esperanza Nazario.✨</h1>
-    <h3 aling="center"> I'm from Mexico and I have a great passion for the world of the Web and technology. I consider myself a person open to new challenges and always interested in learning about the latest trends and emerging technologies in the frontend field.
+      <h3 aling="center"> I'm from Mexico and I have a great passion for the world of the Web and technology. I consider myself a person open to new challenges and always interested in learning about the latest trends and emerging technologies in the frontend field.
 <br>
         I describe myself as a proactive person with critical thinking, always looking for new ways to grow both professionally and personally. Additionally, I consider myself a sociable person who enjoys living new experiences.
 <br>    
