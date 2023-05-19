@@ -43,7 +43,5 @@ const Esperanza = {
          
  ---
  
-  ### 📊 My Stats :
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Esperaanza&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esperaanza&show_icons=true&theme=gruvbox)
+ 
 
