@@ -25,7 +25,7 @@ const Esperanza = {
 
 - 📫 How to reach me **xcaanda100@gmail.com**
 
-- 🌱 I’m currently learning **React.js **
+
 
  ---
 
